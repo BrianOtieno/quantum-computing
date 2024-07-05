@@ -14,7 +14,7 @@ A repository with simple explanations,  code and visualizations of Quantum conce
 
  <h3 align="left" colour="pink" >Introduction</h3>
 
- Welcome to the Quantum Computing Funhouse! 🪄✨
+ Welcome to the Quantum Computing Funhouse!
 
  Fear sparks amongst the ton at the mention of quantum computing like German planes are still flying up there. That's not a quantum joke but rather classical, so I reconned. You would relate - especially if you are a Brit and were alive in 1945 - of which am not on both accounts! 
  
@@ -40,7 +40,7 @@ Run this code in your terminal to clone the repository
    ```
 2. **Install Dependencies:**
    ```bash
-   pip install jupyter qiskit qiskit_aer qiskit-nature matplotlib numpy qiskit_machine_learning qiskit-ibm-runtime pylatexenc pyscf
+   pip install jupyter qiskit qiskit_aer qiskit-nature matplotlib numpy qiskit_machine_learning qiskit-ibm-runtime pylatexenc pyscf networkx
    ```
 
 1. **Fire Jupyter**: 
