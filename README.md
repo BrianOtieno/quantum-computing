@@ -6,7 +6,7 @@ A repository with simple explanations,  code and visualizations of Quantum conce
 <!-- Shields -->
 <p align="center">
 <a rel="license" href="http://creativecommons.org/licenses/by/"><img src="https://badgen.net/badge/License/ MIT/green"/></a>
-<img src="https://badgen.net/badge/Last%20Update/June%202024/green" /> 
+<img src="https://badgen.net/badge/Last%20Update/July%202024/green" /> 
 <a href="https://github.com/BrianOtieno/quantum-computing" target="_blank">
   <img src="https://badgen.net/badge/BrianOtieno/quantum-computing/purple"  alt="quantum-computing"/>
 </a> 
@@ -18,7 +18,7 @@ A repository with simple explanations,  code and visualizations of Quantum conce
 
  Fear sparks amongst the ton at the mention of quantum computing like German planes are still flying up there. That's not a quantum joke but rather classical, so I reconned. You would relate - especially if you are a Brit and were alive in 1945 - of which am not on both accounts! 
  
- However, this shouldn't be the case!!!
+ However, this shouldn't be the case!
 
 This repository is your golden ticket to the wacky world of quantum computing. Whether you're a curious cat just dipping your paws into the quantum realm or a seasoned Schrödinger's cat playing with superpositions, there's something for everyone.
 
