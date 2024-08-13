@@ -6,9 +6,9 @@ A repository with simple explanations,  code and visualizations of Quantum conce
 <!-- Shields -->
 <p align="center">
 <a rel="license" href="http://creativecommons.org/licenses/by/"><img src="https://badgen.net/badge/License/ MIT/green"/></a>
-<img src="https://badgen.net/badge/Last%20Update/July%202024/green" /> 
+<img src="https://badgen.net/badge/Last%20Update/August%202024/green" /> 
 <a href="https://github.com/BrianOtieno/quantum-computing" target="_blank">
-  <img src="https://badgen.net/badge/BrianOtieno/quantum-computing/purple"  alt="quantum-computing"/>
+  <img src="https://badgen.net/badge/Brian Otieno/quantum computing/purple"  alt="quantum-computing"/>
 </a> 
 </p> 
 
@@ -22,15 +22,15 @@ A repository with simple explanations,  code and visualizations of Quantum conce
 
 This repository is your golden ticket to the wacky world of quantum computing. Whether you're a curious cat just dipping your paws into the quantum realm or a seasoned Schrödinger's cat playing with superpositions, there's something for everyone.
 
-<h3 align="left" style="color:violet;">What's Inside? 📦</h3>
+<h3 align="left" style="color:violet;">What's Inside? </h3>
 
-- **Jupyter Notebooks Galore** 📚: Dive into a plethora of notebooks, starting from the basics and spiraling into advanced topics. Each notebook is packed with explanations, code, and a sprinkle of humor to keep those qubits spinning!
+- **Jupyter Notebooks Galore** : Dive into a plethora of notebooks, starting from the basics and spiraling into advanced topics. Each notebook is packed with explanations, code, and a sprinkle of humor to keep those qubits spinning!
   
-- **From Qubits to Quboss** 🧠: Learn the ABCs of quantum computing, from understanding qubits and gates to mastering complex algorithms and quantum error correction. You'll go from "What's a qubit?" to "I am the Quboss!" in no time.
+- **From Qubits to Quboss** : Learn the ABCs of quantum computing, from understanding qubits and gates to mastering complex algorithms and quantum error correction. You'll go from "What's a qubit?" to "I am the Quboss!" in no time.
   
 - **Code & Play** 🎮: Every notebook comes with interactive code snippets. Tinker with them, run them, and watch quantum magic unfold. Who said learning quantum computing can't be fun?
 
-<h3 align="left" style="color:violet;">Getting Started 🚀</h3>
+<h3 align="left" style="color:violet;">Getting Started </h3>
 
 Run this code in your terminal to clone the repository
 
@@ -40,7 +40,7 @@ Run this code in your terminal to clone the repository
    ```
 2. **Install Dependencies:**
    ```bash
-   pip install jupyter qiskit qiskit_aer qiskit-nature matplotlib numpy qiskit_machine_learning qiskit-ibm-runtime pylatexenc pyscf networkx pennylane-qiskit
+   pip install jupyter qiskit qiskit_aer qiskit-nature matplotlib numpy qiskit_machine_learning qiskit-ibm-runtime pylatexenc pyscf networkx pennylane-qiskit qiskit-optimization
    ```
 
 1. **Fire Jupyter**: 
@@ -54,12 +54,12 @@ Run this code in your terminal to clone the repository
 <h3 align="left" style="color:violet;">Contributing 🎩</h3>
 Have a cool quantum trick up your sleeve? Pull requests are welcome! Let's make this repository a quantum carnival.
 
-<h3 align="left" style="color:pink;">License 📜</h3>
+<h3 align="left" style="color:pink;">License </h3>
 This repository is licensed under the MIT License. Feel free to use, modify, and distribute, but remember: with great power comes great responsibility (and hopefully, fewer quantum bugs).
 
 
 
-<h3 align="left" style="color:blue;">Disclaimer 📜</h3>
+<h3 align="left" style="color:blue;">Disclaimer </h3>
 No actual cats were placed in superposition during the creation of these notebooks. 
 
 ...
