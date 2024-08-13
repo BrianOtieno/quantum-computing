@@ -28,7 +28,7 @@ This repository is your golden ticket to the wacky world of quantum computing. W
   
 - **From Qubits to Quboss** : Learn the ABCs of quantum computing, from understanding qubits and gates to mastering complex algorithms and quantum error correction. You'll go from "What's a qubit?" to "I am the Quboss!" in no time.
   
-- **Code & Play** 🎮: Every notebook comes with interactive code snippets. Tinker with them, run them, and watch quantum magic unfold. Who said learning quantum computing can't be fun?
+- **Code & Play** : Every notebook comes with interactive code snippets. Tinker with them, run them, and watch quantum magic unfold. Who said learning quantum computing can't be fun?
 
 <h3 align="left" style="color:violet;">Getting Started </h3>
 
@@ -51,7 +51,7 @@ Run this code in your terminal to clone the repository
 4. **Choose Your Adventure**
    Start with    ``0001-basic-quantum-circuit.ipynb`` and follow the path of quantum enlightenment.
 
-<h3 align="left" style="color:violet;">Contributing 🎩</h3>
+<h3 align="left" style="color:violet;">Contributing </h3>
 Have a cool quantum trick up your sleeve? Pull requests are welcome! Let's make this repository a quantum carnival.
 
 <h3 align="left" style="color:pink;">License </h3>
