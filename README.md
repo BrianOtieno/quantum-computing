@@ -54,8 +54,11 @@ Run this code in your terminal to clone the repository
 <h3 align="left" style="color:violet;">Contributing </h3>
 Have a cool quantum trick up your sleeve? Pull requests are welcome! Let's make this repository a quantum carnival.
 
-<h3 align="left" style="color:pink;">License </h3>
+<h3 align="left" style="color:violet;">License </h3>
 This repository is licensed under the MIT License. Feel free to use, modify, and distribute, but remember: with great power comes great responsibility (and hopefully, fewer quantum bugs).
+
+<h3 align="left" style="color:violet;">Supporting  Repository </h3>
+You can drop a star, a fork or if in a philanthropic mood,  send in a contribution via Sendwave or WorldRemit apps to Kenya via MPESA number: +254723328969. I could use a 128GB RAM laptop to run some advanced quantum concepts and share with the community.
 
 
 
