@@ -60,6 +60,12 @@ This repository is licensed under the MIT License. Feel free to use, modify, and
 <h3 align="left" style="color:violet;">Supporting  Repository </h3>
 You can drop a star, a fork or if in a philanthropic mood,  send in a contribution via Sendwave or WorldRemit apps to Kenya via MPESA number: +254723328969. I could use a 128GB RAM laptop to run some advanced quantum concepts and share with the community.
 
+###### Below is a list of support received:
+
+| Name| Item | Date |
+| :---         |     :---:     |          ---: |
+| Angelica Adipo  | USD 200     | 22-07-2024   | 
+
 
 
 <h3 align="left" style="color:blue;">Disclaimer </h3>
@@ -70,3 +76,6 @@ No actual cats were placed in superposition during the creation of these noteboo
 Get ready to quantum leap into the future. May your qubits be ever in superposition!
 
 Happy Quantum Computing! 🌀🧑‍💻
+
+
+
