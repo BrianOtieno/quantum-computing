@@ -40,7 +40,7 @@ Run this code in your terminal to clone the repository
    ```
 2. **Install Dependencies:**
    ```bash
-   pip install jupyter qiskit qiskit_aer qiskit-nature matplotlib numpy qiskit_machine_learning qiskit-ibm-runtime pylatexenc pyscf networkx pennylane-qiskit qiskit-optimization
+   pip install jupyter qiskit qiskit_aer qiskit-nature matplotlib numpy qiskit_machine_learning qiskit-ibm-runtime pylatexenc pyscf networkx pennylane-qiskit qiskit-optimization qiskit-ibm-runtime --quiet
    ```
 
 1. **Fire Jupyter**: 
