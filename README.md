@@ -6,7 +6,7 @@ A repository with simple explanations,  code and visualizations of Quantum conce
 <!-- Shields -->
 <p align="center">
 <a rel="license" href="http://creativecommons.org/licenses/by/"><img src="https://badgen.net/badge/License/ MIT/green"/></a>
-<img src="https://badgen.net/badge/Last%20Update/September%202024/green" /> 
+<img src="https://badgen.net/badge/Last%20Update/October%202024/green" /> 
 <a href="https://github.com/BrianOtieno/quantum-computing" target="_blank">
   <img src="https://badgen.net/badge/Brian Otieno/quantum computing/purple"  alt="quantum-computing"/>
 </a> 
@@ -40,7 +40,7 @@ Run this code in your terminal to clone the repository
    ```
 2. **Install Dependencies:**
    ```bash
-   pip install jupyter qiskit qiskit_aer qiskit-nature matplotlib numpy qiskit_machine_learning qiskit-ibm-runtime pylatexenc pyscf networkx pennylane-qiskit qiskit-optimization qiskit-ibm-runtime --quiet
+   pip install jupyter qiskit qiskit_aer qiskit-nature matplotlib numpy qiskit_machine_learning qiskit-ibm-runtime pylatexenc pyscf networkx pennylane-qiskit qiskit-optimization qiskit-ibm-runtime qiskit-ignis --quiet
    ```
 
 1. **Fire Jupyter**: 
