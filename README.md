@@ -6,7 +6,7 @@ A repository with simple explanations,  code and visualizations of Quantum conce
 <!-- Shields -->
 <p align="center">
 <a rel="license" href="http://creativecommons.org/licenses/by/"><img src="https://badgen.net/badge/License/ MIT/green"/></a>
-<img src="https://badgen.net/badge/Last%20Update/October%202024/green" /> 
+<img src="https://badgen.net/badge/Last%20Update/November%202024/green" /> 
 <a href="https://github.com/BrianOtieno/quantum-computing" target="_blank">
   <img src="https://badgen.net/badge/Brian Otieno/quantum computing/purple"  alt="quantum-computing"/>
 </a> 
@@ -40,7 +40,7 @@ Run this code in your terminal to clone the repository
    ```
 2. **Install Dependencies:**
    ```bash
-   pip install jupyter qiskit qiskit_aer qiskit-nature matplotlib numpy qiskit_machine_learning qiskit-ibm-runtime pylatexenc pyscf networkx pennylane-qiskit qiskit-optimization qiskit-ibm-runtime qiskit-ignis --quiet
+   pip install jupyter qiskit qiskit_aer qiskit-nature matplotlib numpy qiskit_machine_learning qiskit-ibm-runtime pylatexenc pyscf seaborn networkx pennylane-qiskit qiskit-optimization qiskit-ibm-runtime qiskit-ignis --quiet
    ```
 
 1. **Fire Jupyter**: 
@@ -60,11 +60,11 @@ This repository is licensed under the MIT License. Feel free to use, modify, and
 <h3 align="left" style="color:violet;">Supporting  Repository </h3>
 You can drop a star, a fork or if in a philanthropic mood,  send in a contribution via Sendwave or WorldRemit apps to Kenya via MPESA number: +254723328969. I could use a 128GB RAM laptop to run some advanced quantum concepts and share with the community.
 
-###### Below is a list of support received:
+<!-- ###### Below is a list of support received:
 
 | Name| Item | Date |
 | :---         |     :---:     |          ---: |
-| Angelica Adipo  | USD 200     | 22-07-2024   | 
+| Angelica Adipo  | USD 200     | 22-07-2024   |  -->
 
 
 
