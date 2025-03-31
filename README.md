@@ -6,7 +6,7 @@ A repository with simple explanations,  code and visualizations of Quantum conce
 <!-- Shields -->
 <p align="center">
 <a rel="license" href="http://creativecommons.org/licenses/by/"><img src="https://badgen.net/badge/License/ MIT/green"/></a>
-<img src="https://badgen.net/badge/Last%20Update/November%202024/green" /> 
+<img src="https://badgen.net/badge/Last%20Update/April%202025/green" /> 
 <a href="https://github.com/BrianOtieno/quantum-computing" target="_blank">
   <img src="https://badgen.net/badge/Brian Otieno/quantum computing/purple"  alt="quantum-computing"/>
 </a> 
@@ -49,7 +49,7 @@ Run this code in your terminal to clone the repository
    ```
 
 4. **Choose Your Adventure**
-   Start with    ``0001-basic-quantum-circuit.ipynb`` and follow the path of quantum enlightenment.
+   Start with    ``0000-introduction.ipynb`` and follow the path of quantum enlightenment.
 
 <h3 align="left" style="color:violet;">Contributing </h3>
 Have a cool quantum trick up your sleeve? Pull requests are welcome! Let's make this repository a quantum carnival.
